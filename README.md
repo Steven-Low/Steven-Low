@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Steven-Low
-- 👀 I’m interested in nothing.
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me? No such thing.
+>[!tip]+ Fire 🔥 up your stove!
+> - Chop your meat or vege.
+> - Cut off the damaged part.
+> - Cook everything 
+> - Serve 🍽
 
 <!---
 Steven-Low/Steven-Low is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
