@@ -1,4 +1,4 @@
->[!tip] Fire 🔥 up your stove!
+> [!NOTE] Fire 🔥 up your stove!
 > - Chop your meat or vege.
 > - Cut off the damaged part.
 > - Cook everything 
